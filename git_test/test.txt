@@ -13,4 +13,8 @@ test sucess
 
 add a branch
 
+<<<<<<< HEAD
 master add other branch
+=======
+add other branch`
+>>>>>>> featurel
